@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: The Garret 
 description: Thoughts on philosophy, psychology, sociology, literature, politics, gay chemsex orgies, science, etc.  
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
