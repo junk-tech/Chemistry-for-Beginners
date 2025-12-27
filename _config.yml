@@ -1,5 +1,6 @@
 title: The Garret 
-description: Thoughts on philosophy, psychology, sociology, literature, politics, gay chemsex orgies, science, etc.  
-remote_theme: pages-themes/primer@v0.6.0
+description: I wanted somewhere to go, be weird, not care. This is what I made. 
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+
